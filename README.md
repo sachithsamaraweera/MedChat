@@ -1,11 +1,4 @@
-I'll help create a README.md file for this project. Here's the plan:
 
-<step>
-<files_to_create>
-<file>README.md</file>
-</files_to_create>
-<content>
-```markdown
 # Medical History Taking Assistant
 
 A React-based chat interface that helps healthcare professionals gather patient information and assist with the diagnostic process using OpenAI's GPT models.
